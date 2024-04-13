@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hey there 👋
 
+- 🌱 I’m currently on my 1B term studying mathematical physics at the University of Waterloo.
+  
 <!--
 **TDC28/TDC28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
