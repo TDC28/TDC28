@@ -1,6 +1,7 @@
 ### Hey there 👋
 
-- 🌱 I’m currently on my 2A term studying mathematical physics at the University of Waterloo.
+- 🧳 I am currently working as a research assistant at the Institute for Quantum Computing at the University of Waterloo.
+- 🌱 I’m about to start my 2B term of mathematical physics at UW.
 - 🔭 I'm currently working on computational mathematics/physics and quantum computing.
   
 <!--
